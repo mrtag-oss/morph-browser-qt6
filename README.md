@@ -5,7 +5,7 @@ How to download:
 1. Download morph-browser-qt6-portable.tar.gz file from Releases
 2. In terminal input commands:
 
-cd Downlods
+cd Downloads
 
 tar -xzf morph-browser-qt6-portable.tar.gz
 
